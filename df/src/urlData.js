@@ -1,0 +1,1 @@
+export const urlData  = "http://192.168.88.72:3001/";
